@@ -7,7 +7,7 @@
 
 ### 📸 Посмотреть проект можно здесь: 
 
-<a href="https://olhaklymas.github.io/sun.agency/">Хочу играть!</a>
+<a href="https://olhaklymas.github.io/the-game-tic-tac-toc/">Хочу играть!</a>
 
 <br> 
 <div align="center">
