@@ -4,7 +4,8 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Game />
+        <Game />
+        <a href="https://github.com/OlhaKlymas/tic-tac-toc">Посмотреть код</a>
     </div>
   );
 }
